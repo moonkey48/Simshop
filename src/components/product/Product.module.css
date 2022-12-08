@@ -1,0 +1,26 @@
+.item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.itemImg{
+    width: 300px;
+    height: auot;
+    margin-right: 50px;
+}
+.rightSection{
+    width: 400px;
+}
+.title{
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+.category{
+    margin-bottom: 20px;
+}
+.price{
+    margin-bottom: 20px;
+}
+.desc{
+    line-height: 25px;
+}
